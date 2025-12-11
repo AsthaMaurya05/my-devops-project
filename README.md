@@ -27,14 +27,16 @@ The goal of this project is to demonstrate:
 This project aligns perfectly with the DevOps syllabus and industrial DevOps workflows.
 
 🛠️ Tools & Technologies Used
-Tool	Purpose
+
 Git	Version control
 GitHub	Remote repository hosting
 Maven	Build automation tool
 Java (JDK 17)	Programming language
 GitHub Actions	Continuous Integration (CI)
 Windows CMD	Running Git + Maven commands
+
 🔥 DevOps Concepts Implemented
+
 1️⃣ Git Version Control
 
 git init, add, commit, push, pull
